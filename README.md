@@ -66,6 +66,7 @@ Set the server configuration:
 Try deploying a k8s example app such as the [nodejs example](https://github.com/hashicorp/waypoint-examples/tree/main/kubernetes/nodejs).
 
 `waypoint init`
+
 `waypoint up`
 
 Check to see if `waypoint logs`, `waypoint exec`, and the Deployment URL function properly.
